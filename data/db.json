@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "lorem epsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Bring all groceries",
+      "details": "lorem epsum",
+      "complete": true
+    },
+    {
+      "title": "make a new website",
+      "details": "Use vue for the frontend, mongoDB for database and Java for the backend part. Test and verify different use cases.",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Learn a new language",
+      "details": "Start with basics of russian and then sentence formation",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
